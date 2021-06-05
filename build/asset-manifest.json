@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Frnt-End/Spread-the-JOY/static/css/main.d9f6648d.chunk.css",
-    "main.js": "/Frnt-End/Spread-the-JOY/static/js/main.25afa6ae.chunk.js",
-    "main.js.map": "/Frnt-End/Spread-the-JOY/static/js/main.25afa6ae.chunk.js.map",
-    "runtime-main.js": "/Frnt-End/Spread-the-JOY/static/js/runtime-main.a28625cc.js",
-    "runtime-main.js.map": "/Frnt-End/Spread-the-JOY/static/js/runtime-main.a28625cc.js.map",
-    "static/js/2.591d1619.chunk.js": "/Frnt-End/Spread-the-JOY/static/js/2.591d1619.chunk.js",
-    "static/js/2.591d1619.chunk.js.map": "/Frnt-End/Spread-the-JOY/static/js/2.591d1619.chunk.js.map",
-    "index.html": "/Frnt-End/Spread-the-JOY/index.html",
-    "static/css/main.d9f6648d.chunk.css.map": "/Frnt-End/Spread-the-JOY/static/css/main.d9f6648d.chunk.css.map",
-    "static/js/2.591d1619.chunk.js.LICENSE.txt": "/Frnt-End/Spread-the-JOY/static/js/2.591d1619.chunk.js.LICENSE.txt",
-    "static/media/author.f1dce96f.png": "/Frnt-End/Spread-the-JOY/static/media/author.f1dce96f.png",
-    "static/media/vid-bg.0e1fa824.mp4": "/Frnt-End/Spread-the-JOY/static/media/vid-bg.0e1fa824.mp4"
+    "main.css": "/Spread-the-JOY/static/css/main.d9f6648d.chunk.css",
+    "main.js": "/Spread-the-JOY/static/js/main.25afa6ae.chunk.js",
+    "main.js.map": "/Spread-the-JOY/static/js/main.25afa6ae.chunk.js.map",
+    "runtime-main.js": "/Spread-the-JOY/static/js/runtime-main.0e86a3fd.js",
+    "runtime-main.js.map": "/Spread-the-JOY/static/js/runtime-main.0e86a3fd.js.map",
+    "static/js/2.591d1619.chunk.js": "/Spread-the-JOY/static/js/2.591d1619.chunk.js",
+    "static/js/2.591d1619.chunk.js.map": "/Spread-the-JOY/static/js/2.591d1619.chunk.js.map",
+    "index.html": "/Spread-the-JOY/index.html",
+    "static/css/main.d9f6648d.chunk.css.map": "/Spread-the-JOY/static/css/main.d9f6648d.chunk.css.map",
+    "static/js/2.591d1619.chunk.js.LICENSE.txt": "/Spread-the-JOY/static/js/2.591d1619.chunk.js.LICENSE.txt",
+    "static/media/author.f1dce96f.png": "/Spread-the-JOY/static/media/author.f1dce96f.png",
+    "static/media/vid-bg.0e1fa824.mp4": "/Spread-the-JOY/static/media/vid-bg.0e1fa824.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.a28625cc.js",
+    "static/js/runtime-main.0e86a3fd.js",
     "static/js/2.591d1619.chunk.js",
     "static/css/main.d9f6648d.chunk.css",
     "static/js/main.25afa6ae.chunk.js"
