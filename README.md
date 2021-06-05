@@ -38,5 +38,9 @@ To view this project in GitHub pages, go to
 
 ### License
 
+Copyright © 2015 @frnt-end
+[nirit.website](https:///nirit.website)
+
+
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
