@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Spread-the-JOY/static/css/main.d9f6648d.chunk.css",
-    "main.js": "/Spread-the-JOY/static/js/main.fd86353c.chunk.js",
-    "main.js.map": "/Spread-the-JOY/static/js/main.fd86353c.chunk.js.map",
+    "main.js": "/Spread-the-JOY/static/js/main.b5bb5aa2.chunk.js",
+    "main.js.map": "/Spread-the-JOY/static/js/main.b5bb5aa2.chunk.js.map",
     "runtime-main.js": "/Spread-the-JOY/static/js/runtime-main.0e86a3fd.js",
     "runtime-main.js.map": "/Spread-the-JOY/static/js/runtime-main.0e86a3fd.js.map",
     "static/js/2.591d1619.chunk.js": "/Spread-the-JOY/static/js/2.591d1619.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0e86a3fd.js",
     "static/js/2.591d1619.chunk.js",
     "static/css/main.d9f6648d.chunk.css",
-    "static/js/main.fd86353c.chunk.js"
+    "static/js/main.b5bb5aa2.chunk.js"
   ]
 }
