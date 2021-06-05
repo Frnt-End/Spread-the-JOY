@@ -1,6 +1,6 @@
 # 💬 Spread the JOY!
 
-## Short tutorial with code samples - the Spread operator usage for inline styles in React (ES6 +)
+## Spread operator usage for inline styles in React (ES6 +)
 
 #### Check out the tutorial page:
 [Customize inline styles with the Spread Syntax in React](https://frnt-end.github.io/Spread-the-JOY)

@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/static/js/main.69feb729.chunk.js",
-    "main.js.map": "/static/js/main.69feb729.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d72440de.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d72440de.js.map",
-    "static/js/2.b0acf840.chunk.js": "/static/js/2.b0acf840.chunk.js",
-    "static/js/2.b0acf840.chunk.js.map": "/static/js/2.b0acf840.chunk.js.map",
-    "static/js/3.4dd205bc.chunk.js": "/static/js/3.4dd205bc.chunk.js",
-    "static/js/3.4dd205bc.chunk.js.map": "/static/js/3.4dd205bc.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.b0acf840.chunk.js.LICENSE.txt": "/static/js/2.b0acf840.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/Frnt-End/Spread-the-JOY/static/css/main.780884d3.chunk.css",
+    "main.js": "/Frnt-End/Spread-the-JOY/static/js/main.def90007.chunk.js",
+    "main.js.map": "/Frnt-End/Spread-the-JOY/static/js/main.def90007.chunk.js.map",
+    "runtime-main.js": "/Frnt-End/Spread-the-JOY/static/js/runtime-main.07a074cb.js",
+    "runtime-main.js.map": "/Frnt-End/Spread-the-JOY/static/js/runtime-main.07a074cb.js.map",
+    "static/js/2.2726ded5.chunk.js": "/Frnt-End/Spread-the-JOY/static/js/2.2726ded5.chunk.js",
+    "static/js/2.2726ded5.chunk.js.map": "/Frnt-End/Spread-the-JOY/static/js/2.2726ded5.chunk.js.map",
+    "static/js/3.4dd205bc.chunk.js": "/Frnt-End/Spread-the-JOY/static/js/3.4dd205bc.chunk.js",
+    "static/js/3.4dd205bc.chunk.js.map": "/Frnt-End/Spread-the-JOY/static/js/3.4dd205bc.chunk.js.map",
+    "index.html": "/Frnt-End/Spread-the-JOY/index.html",
+    "static/css/main.780884d3.chunk.css.map": "/Frnt-End/Spread-the-JOY/static/css/main.780884d3.chunk.css.map",
+    "static/js/2.2726ded5.chunk.js.LICENSE.txt": "/Frnt-End/Spread-the-JOY/static/js/2.2726ded5.chunk.js.LICENSE.txt",
+    "static/media/author.f1dce96f.png": "/Frnt-End/Spread-the-JOY/static/media/author.f1dce96f.png",
+    "static/media/vid-bg.0e1fa824.mp4": "/Frnt-End/Spread-the-JOY/static/media/vid-bg.0e1fa824.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.d72440de.js",
-    "static/js/2.b0acf840.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.69feb729.chunk.js"
+    "static/js/runtime-main.07a074cb.js",
+    "static/js/2.2726ded5.chunk.js",
+    "static/css/main.780884d3.chunk.css",
+    "static/js/main.def90007.chunk.js"
   ]
 }
