@@ -1,6 +1,6 @@
 {
-  "name": "spread-the-joy",
   "homepage": "http://github.com/Frnt-End/Spread-the-JOY",
+  "name": "spread-the-joy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
