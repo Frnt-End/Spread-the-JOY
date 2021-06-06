@@ -14,7 +14,7 @@ function App() {
     <div className="container">
     <div className="main-content-top">
       <h1>...Spread the JOY!</h1>
-      <h2>The Spread operator usage for inline styles in React (ES6 - ES12)</h2>
+      <h2>The Spread operator syntax and inline styles in React (ES6 - ES12)</h2>
       <p className="date">June 5, 2021</p>
     </div>
 
@@ -34,9 +34,9 @@ function App() {
     <p>
         <strong>...and that's it folks! </strong>
               <br />
-            <strong>💪 Keep on learning and spread the joy..!</strong>
+            <strong>Keep on learning and spread the joy..!</strong>
             <br />
-            <a href="https://github.com/Frnt-End/Spread-the-JOY"> 🏡 Back to the Repo</a>
+            ▪️<a href="https://github.com/Frnt-End/Spread-the-JOY">  Back to the Repo</a>
     </p>
           </div>
       </div>
